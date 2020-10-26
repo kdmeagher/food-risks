@@ -1,6 +1,6 @@
 # food-risks
 
-The files on this page reproduce the data and analysis for the manuscript, "Public perceptions of food-related risks: a cross-national investigation of individual and contextual influences," written by Kelsey D. Meagher and published in the Journal of Risk Research: https://doi.org/10.1080/13669877.2017.1422789. 
+The files on this page reproduce the data and analysis for the manuscript, "Public perceptions of food-related risks: a cross-national investigation of individual and contextual influences," written by Kelsey D. Meagher and published in the Journal of Risk Research: https://doi.org/10.1080/13669877.2017.1422789. (Preprint: https://dx.doi.org/10.17605/OSF.IO/C2KHW)
 
 ## Data
 
